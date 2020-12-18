@@ -1,0 +1,9 @@
+itemGroup.tabCore=NS Dungeons Core Items
+itemGroup.tabGear=NS Dungeons Gear
+itemGroup.tabMobs=NS Dungeons Mobs
+
+item.coin_gold.name=Gold Coin
+item.coin_silver.name=Silver Coin
+item.coin_copper.name=Copper Coin
+
+tile.bricks_castle.name=Castle Bricks
